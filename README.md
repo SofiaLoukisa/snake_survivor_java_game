@@ -4,7 +4,7 @@
 
 Built with **Java 17 + Swing** as part of a Game Design & Development course.
 
-**Team 1** — Sofia Loukissa · Anastasia Kouridaki · Evangelos Dimovits
+**Team 1** — Sofia Loukisa · Anastasia Kouridaki · Evangelos Dimovits
 
 ---
 
