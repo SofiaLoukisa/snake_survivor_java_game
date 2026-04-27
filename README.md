@@ -115,9 +115,9 @@ java -jar target/SnakeSurvivor-1.0-SNAPSHOT-jar-with-dependencies.jar
 
 ## 👥 Team
 
-| Evangelos Dimovits | Developer |
-| Sofia Loukisa | Developer |
-| Anastasia Kouridaki | Developer |
+| Sofia Loukisa | Team Leader/Developer |
+| Evangelos Dimovits | Founding Developer |
+| Anastasia Kouridaki | UI/UX Designer |
 
 ---
 
